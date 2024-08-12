@@ -14,3 +14,11 @@
 /* Components */
 @import 'cmps/AppHeader.css';
 @import 'cmps/UserMsg.css';
+@import 'cmps/UserPreview.css';
+@import 'cmps/SimpleCounter.css';
+@import 'cmps/StopWatch.css';
+@import 'cmps/AnimalList.css';
+@import 'cmps/SeasonsClock.css';
+@import 'cmps/CountDown.css';
+@import 'cmps/WatcherApp.css';
+@import 'cmps/MouseMonitor.css';

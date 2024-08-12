@@ -1,0 +1,24 @@
+.seasons-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.season-clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height: 310px;
+  width: 30%;
+  background-color: lightblue;
+  margin-top: 10px;
+  padding: 20px;
+}
+
+.season-clock.dark {
+  background-color: darkblue;
+  color: white;
+}

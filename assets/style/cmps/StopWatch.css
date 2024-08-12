@@ -1,0 +1,9 @@
+.stop-watch {
+    padding: 10px;
+    background-color: lightslategray;
+    margin-block-start: 10px;
+    
+    text-align: center;
+    font-family: monospace;
+    font-size: 2em;
+}

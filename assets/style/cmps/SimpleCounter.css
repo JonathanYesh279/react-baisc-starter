@@ -1,0 +1,26 @@
+.simple-counter {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+
+    background-color: lightgray;
+    margin-block-start: 10px;
+}
+
+.simple-counter.dark {
+    background-color: darkslategray;
+    color: white;
+}
+
+.low {
+    color: red;
+}
+
+.high {
+    color: orange;
+}
+
+.odd {
+    rotate: -25deg;
+}
